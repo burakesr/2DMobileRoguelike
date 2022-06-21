@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a45901452b074949bd6db49db37bea9, type: 3}
+  m_Name: WeaponDetails_Pistol
+  m_EditorClassIdentifier: 
+  weaponName: Pistol
+  weaponSprite: {fileID: 21300000, guid: abbe40c4d6a803f42a7c4f53404a484d, type: 3}
+  weaponShootPos: {x: 1.125, y: 0.287, z: 0}
+  weaponCurrentAmmo: {fileID: 11400000, guid: 79d5e3839390b5c4ab3eeabd011e233f, type: 2}
+  weaponFiringSoundEffect: {fileID: 11400000, guid: 35efa4c470d62434c859b79ff10dd7a7, type: 2}
+  weaponReloadingSoundEffect: {fileID: 11400000, guid: b85f950e3cc40074aa11bf5fb5d60c71, type: 2}
+  weaponShootEffect: {fileID: 11400000, guid: 680372964ddc2fc4a9efe0f81b8e9f87, type: 2}
+  weaponClipAmmoCapacity: 10
+  weaponAmmoCapacity: 90
+  weaponFireRate: 0.25
+  weaponPrechargeTime: 0
+  weaponReloadTime: 1.5
+  hasInfiniteAmmo: 0
+  hasInfiniteClipCapacity: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dbe9e57e7c0c9545b7dd26d67edce45, type: 3}
+  m_Name: PlayerDetails_TheThief
+  m_EditorClassIdentifier: 
+  playerCharacterName: The Thief
+  playerPrefab: {fileID: 604850941216321663, guid: 6d3da38872ce5884895a50ab6edeba3a, type: 3}
+  runtimeAnimatorController: {fileID: 9100000, guid: 23441119c736b7542b97a9b5dd210040, type: 2}
+  startingWeapon: {fileID: 11400000, guid: f979dbc02c618ea458cb2fefaa7d7108, type: 2}
+  startingWeapons:
+  - {fileID: 11400000, guid: f979dbc02c618ea458cb2fefaa7d7108, type: 2}
+  playerHealthAmount: 80
+  playerMinimapIcon: {fileID: 21300000, guid: 78e98bbdd906a064cb23bb31f5134c95, type: 3}
+  playerHandSprite: {fileID: 21300000, guid: 0cb26cae2ec54184eb8f6ed3f1e815fd, type: 3}
