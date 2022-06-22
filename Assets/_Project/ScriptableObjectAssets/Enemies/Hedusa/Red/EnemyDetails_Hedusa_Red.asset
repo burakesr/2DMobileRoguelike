@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ed3909a360007e4c9c95276b66becc0, type: 3}
+  m_Name: EnemyDetails_Hedusa_Red
+  m_EditorClassIdentifier: 
+  enemyName: Hedusa Red
+  chaseDistance: 50
+  enemyPrefab: {fileID: 8182564067968017379, guid: 720567370178cb34382aa25fbc1a65df, type: 3}
+  enemyStandardMaterial: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  enemyMaterialiseTime: 3
+  enemyMaterialiseShader: {fileID: -6465566751694194690, guid: 5fec8f8e6ea244648a3c6ede24a56288, type: 3}
+  enemyMaterialiseColor: {r: 0.42149112, g: 4.237095, b: 0, a: 0}
